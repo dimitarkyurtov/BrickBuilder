@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1608505738 source:c:\users\gamingpc\desktop\compsci\devcamp\brickwork\main.cpp
+	"Brickwork.h"
+	<iostream>
+
+1608505726 source:c:\users\gamingpc\desktop\compsci\devcamp\brickwork\src\brickwork.cpp
+	"Brickwork.h"
+	<iostream>
+
+1608505754 c:\users\gamingpc\desktop\compsci\devcamp\brickwork\include\brickwork.h
+	<iostream>
+
